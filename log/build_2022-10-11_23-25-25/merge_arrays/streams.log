@@ -1,0 +1,43 @@
+[0.572s] Invoking command in '/home/asvaliveti/ros2_ws/merge_arrays': PYTHONPATH=/home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build install --prefix /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays --record /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed
+[0.736s] running egg_info
+[0.737s] creating build/merge_arrays/merge_arrays.egg-info
+[0.737s] writing build/merge_arrays/merge_arrays.egg-info/PKG-INFO
+[0.738s] writing dependency_links to build/merge_arrays/merge_arrays.egg-info/dependency_links.txt
+[0.738s] writing entry points to build/merge_arrays/merge_arrays.egg-info/entry_points.txt
+[0.738s] writing requirements to build/merge_arrays/merge_arrays.egg-info/requires.txt
+[0.739s] writing top-level names to build/merge_arrays/merge_arrays.egg-info/top_level.txt
+[0.739s] writing manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.740s] reading manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.740s] writing manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.740s] running build
+[0.740s] running build_py
+[0.741s] creating /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build
+[0.741s] creating /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build/lib
+[0.741s] creating /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[0.741s] copying merge_arrays/__init__.py -> /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[0.741s] copying merge_arrays/merge_array.py -> /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[0.741s] copying merge_arrays/publisher_member_function.py -> /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[0.742s] running install
+[0.742s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.742s]   warnings.warn(
+[0.742s] running install_lib
+[0.742s] creating /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.743s] copying /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build/lib/merge_arrays/__init__.py -> /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.743s] copying /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build/lib/merge_arrays/merge_array.py -> /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.743s] copying /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build/lib/merge_arrays/publisher_member_function.py -> /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.743s] byte-compiling /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/__init__.py to __init__.cpython-310.pyc
+[0.744s] byte-compiling /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/merge_array.py to merge_array.cpython-310.pyc
+[0.744s] byte-compiling /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[0.744s] running install_data
+[0.745s] creating /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/share/ament_index
+[0.745s] creating /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/share/ament_index/resource_index
+[0.745s] creating /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/share/ament_index/resource_index/packages
+[0.745s] copying resource/merge_arrays -> /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/share/ament_index/resource_index/packages
+[0.745s] copying package.xml -> /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/share/merge_arrays
+[0.746s] running install_egg_info
+[0.747s] Copying build/merge_arrays/merge_arrays.egg-info to /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays-0.0.0-py3.10.egg-info
+[0.748s] running install_scripts
+[0.764s] Installing merge_array script to /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/merge_arrays
+[0.764s] Installing talker script to /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/merge_arrays
+[0.764s] writing list of installed files to '/home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/install.log'
+[0.790s] Invoked command in '/home/asvaliveti/ros2_ws/merge_arrays' returned '0': PYTHONPATH=/home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/build install --prefix /home/asvaliveti/ros2_ws/merge_arrays/install/merge_arrays --record /home/asvaliveti/ros2_ws/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed
